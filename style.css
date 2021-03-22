@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color:lightsalmon;
+    font-family: georgia;
+    font-size: 52px;
+}
+
+.half-width{
+    width:45%;
+    margin: 2.5%;
+    float:left;
+}
+.half-width img{
+    height:400px;
+    width:400px;
+}

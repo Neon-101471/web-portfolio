@@ -46,6 +46,15 @@ section{
     background-position: right;
 }
 
+#experience{
+    margin-left: 110px;
+    font-family: georgia;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: 700;
+    color: gray;
+}
+
 .experience-area{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
